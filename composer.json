@@ -1,5 +1,5 @@
 {
-    "name": "Nanigans/laravel-js-routes",
+    "name": "petruavram/laravel-js-routes",
     "description": "Laravel routes from Javascript",
     "license": "MIT",
     "keywords": ["laravel", "generators", "artisan", "routing"],
@@ -7,6 +7,10 @@
         {
             "name": "Fede Isas",
             "email": "fedeisas@hotmail.com"
+        },
+        {
+            "name": "Petru Vasile Avram",
+            "email": "pavram@gmab.ro"
         }
     ],
     "require": {
